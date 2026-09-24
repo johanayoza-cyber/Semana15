@@ -10,11 +10,9 @@ Qué hace
 
 Agrega productos a la lista (incluye uno que el usuario escribe).
 
-Muestra la lista en pantalla.
-
-Busca si un producto está en la lista.
-
-Elimina un producto ya comprado.
+- Muestra la lista en pantalla.
+- Busca si un producto está en la lista.
+- Elimina un producto ya comprado.
 
 Cómo ejecutarlo
 
