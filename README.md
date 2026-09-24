@@ -8,12 +8,12 @@ Programa en Python que usa una lista para registrar productos que se necesitan c
 
 Qué hace
 
-- Agrega productos a la lista (incluye uno que el usuario escribe).
+- Agregar productos a la lista (tanto productos predefinidos como uno ingresado por el usuario mediante `input()`).
 - Muestra la lista en pantalla.
 - Busca si un producto está en la lista.
 - Elimina un producto ya comprado.
 
-Cómo ejecutarlo
+## Cómo ejecutar el programa 
 
 ```
 python Semana15.py
@@ -21,7 +21,7 @@ python Semana15.py
 
 Cuando el programa lo solicite, escribe el nombre del producto que deseas agregar y presiona Enter.
 
-Ejemplo de salida
+## Ejemplo de salida
 
 Mi lista de compras:
 - Leche
