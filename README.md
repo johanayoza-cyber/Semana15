@@ -5,6 +5,7 @@ Lista de Compras
 Programa en Python que usa una lista para registrar productos que se necesitan comprar.
 
 Qué hace
+
 Agrega productos a la lista (incluye uno que el usuario escribe).
 Muestra la lista en pantalla.
 Busca si un producto está en la lista.
