@@ -10,10 +10,13 @@ Agrega productos a la lista (incluye uno que el usuario escribe).
 Muestra la lista en pantalla.
 Busca si un producto está en la lista.
 Elimina un producto ya comprado.
+
 Cómo ejecutarlo
+
 python Semana15.py
 Cuando el programa lo solicite, escribe el nombre del producto que deseas agregar y presiona Enter.
 Ejemplo de salida
+
 Mi lista de compras:
 - Leche
 - Pan
