@@ -13,8 +13,10 @@ Elimina un producto ya comprado.
 
 Cómo ejecutarlo
 
-python Semana15.py
+python 
+Semana15.py
 Cuando el programa lo solicite, escribe el nombre del producto que deseas agregar y presiona Enter.
+
 Ejemplo de salida
 
 Mi lista de compras:
