@@ -19,7 +19,7 @@ python
 Semana15.py
 Cuando el programa lo solicite, escribe el nombre del producto que deseas agregar y presiona Enter.
 
-##Ejemplo de salida
+Ejemplo de salida
 
 Mi lista de compras:
 - Leche
