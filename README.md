@@ -6,7 +6,7 @@ Estudiante: Marlene Yoza
 
 Programa en Python que usa una lista para registrar productos que se necesitan comprar.
 
-Qué hace
+## Qué hace
 
 - Agregar productos a la lista (tanto productos predefinidos como uno ingresado por el usuario mediante `input()`).
 - Muestra la lista en pantalla.
