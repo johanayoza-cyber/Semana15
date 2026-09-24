@@ -2,7 +2,7 @@
 
 Estudiante: Marlene Yoza 
 
-Lista de Compras
+# Lista de Compras
 
 Programa en Python que usa una lista para registrar productos que se necesitan comprar.
 
@@ -15,8 +15,10 @@ Qué hace
 
 Cómo ejecutarlo
 
-python 
-Semana15.py
+```
+python Semana15.py
+```
+
 Cuando el programa lo solicite, escribe el nombre del producto que deseas agregar y presiona Enter.
 
 Ejemplo de salida
