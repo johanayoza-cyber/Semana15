@@ -2,18 +2,18 @@
 
 Estudiante: Marlene Yoza 
 
-##Lista de Compras
+Lista de Compras
 
 Programa en Python que usa una lista para registrar productos que se necesitan comprar.
 
-##Qué hace
+Qué hace
 
 Agrega productos a la lista (incluye uno que el usuario escribe).
 Muestra la lista en pantalla.
 Busca si un producto está en la lista.
 Elimina un producto ya comprado.
 
-##Cómo ejecutarlo
+Cómo ejecutarlo
 
 python 
 Semana15.py
